@@ -12,10 +12,19 @@ WordFetch is command-line tool for displaying a word and its corresponding meani
   sudo apt-get install lolcat
   ```
   
-### How to Run?
+### Installation?
 Navigate to the folder WordFetch, open a terminal and paste the following command:
   ```sh
-  bash main.sh
+  sudo mv wordfetch.sh wordfetch_main.py /usr/bin/
   ```
+  
+### How to Run?
+Open a terminal and type:
+  ```sh
+  wordfetch
+  ```
+  
+### Screenshot:
+![Wordfetch Screenshot](https://github.com/PratikNalage/WordFetch/blob/master/screenshot.png)
 
   
